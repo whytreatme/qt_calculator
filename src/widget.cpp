@@ -359,3 +359,4 @@ int Widget::calTop(QStack<int>& number, QStack<char>& opera){
         }
     }
 }
+    
